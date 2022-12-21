@@ -1,0 +1,6 @@
+todos.sql
+__pycache__/main.cpython-38.pyc
+Pipfile
+models/__pycache__/db.cpython-38.pyc
+models/__pycache__/init.cpython-38.pyc
+models/__pycache__/todo.cpython-38.pyc
